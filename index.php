@@ -1,7 +1,7 @@
 <?php
 // parameters
 $hubVerifyToken = 'ELITEYBTOKEN';
-$accessToken = "EAAGcRjajJesBANZBqxqaDyrdnCDSmrPcnp7sUd2vCwQW77ur7ZAFglyjeyQ53hNx8vsKpjBJ0jhsOUtWFFVYf9d2E1FZCsXNr2vkImZAffZAmf93wgdbPIyfZC4fLbURlM0sppryvtZCEaO4Viuc5JZA6cs2dCoZArmeHvyHZBSdXAZA0vEQFMAw5bs";
+$accessToken = "EAAGcRjajJesBAB6nRZC6zZAXXoqGCZBCZACLvnIVQJoggPYv160SZBmo2sYsfxq8wZC0uRuZBX6WMtV3Y3jn77YsZBNEezkemptrCLcShb2AZB5jbZBTaRpkrYns8c9EgfJl0EZCg1wBCsTBGCk988w1Gh8ZCyZCOZBaIL2W66DIBdD8tofQel3VWnPDKy";
 
 // check token at setup
 if ($_REQUEST['hub_verify_token'] === $hubVerifyToken) {
