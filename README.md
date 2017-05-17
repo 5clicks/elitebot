@@ -1,2 +1,2 @@
-# elitebot
+# Elite Bot
 Facebook Messanger Bot
